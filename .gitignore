@@ -1,0 +1,16 @@
+# Unreal build output and local files
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+.vs/
+.idea/
+*.sln
+*.suo
+*.VC.db
+*.opendb
+__pycache__/
+
+# assets are not part of this repository (licensed packs, see PACKS.md)
+Content/
+Import/
