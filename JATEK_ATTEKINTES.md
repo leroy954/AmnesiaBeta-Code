@@ -128,7 +128,7 @@ Minden játékkód a `Source/AmnesiaBeta/Amnesia/` mappában van (kb. 21 000 sor
 
 - **Szerkesztő vezérlése:** az unreal-mcp szerveren keresztül (`.mcp.json`, 8000-es port) vagy a `Tools/ue.py` Python klienssel. A `Tools/` mappában sok teszt- és építőszkript van (pálya-generálás, PIE-tesztek képernyőképekkel, hangok, ikonok, retarget).
 - **Fordítás:** `Tools/rebuild.ps1`: ment, bezárja a szerkesztőt, fordít, és újraindítja. Futó szerkesztő mellett a Live Coding blokkolja a fordítást.
-- **Git:** privát GitHub repó (`origin`). Magyar commit-üzenetek, force-push nincs.
+- **Git:** a fejlesztés egy privát GitHub repóban folyik (magyar commit-üzenetek). Ez a nyilvános repó annak a kódrésze, a licencelt tartalom nélkül.
 
 ## 13. Folyamatban és nyitott kérdések
 
